@@ -1,4 +1,4 @@
-# UBlockOrigin Filter
+# ublock filter
 
 ```
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-mobile.txt
